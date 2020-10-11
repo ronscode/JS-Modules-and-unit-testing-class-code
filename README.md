@@ -1,11 +1,11 @@
 # JS-Modules-and-unit-testing-class-code
 Code from the 10/10/2020 class on JavaScript modules and unit testing. 
 
-*If you clone this repo make sure to run "npm install" 
+* If you clone this repo make sure to run "npm install" 
 
-*The docs are your new best friends
+* The docs are your new best friends
 
-#USEFUL LINKS
+# USEFUL LINKS
 
 [https://mochajs.org/](Mocha.js) - JavaScript test framework 
 
