@@ -11,4 +11,5 @@ Code from the 10/10/2020 class on JavaScript modules and unit testing.
 
 [https://www.chaijs.com/](Chai.js) - Assertion library 
 
-[https://ui.dev/javascript-modules-iifes-commonjs-esmodules/](JS Modules) - Deeper dive in to JS Module concepts
+[https://ui.dev/javascript-modules-iifes-commonjs-esmodules](JSModules) - Deeper dive in to JS Module concepts
+
